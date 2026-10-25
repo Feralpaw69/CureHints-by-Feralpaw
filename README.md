@@ -31,7 +31,7 @@ Type `/curehints test` to give every Decursive square a fake debuff. The type ch
 ## Installation
 
 1. Install **Decursive** (required) — any 3.3.x version.
-2. Download the latest zip from [Releases](../../releases).
+2. Download the latest zip from [Releases](../../releases) (or *Code → Download ZIP*; there the `CureHints` folder sits inside `CureHints-by-Feralpaw-main`).
 3. Extract it into `World of Warcraft\Interface\AddOns\` so you get `Interface\AddOns\CureHints\CureHints.toc`.
 4. Restart the game.
 
