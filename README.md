@@ -3,6 +3,7 @@
 A small add-on for **World of Warcraft 3.3.5a** (Wrath of the Lich King) that works together with **Decursive**.
 
 It puts a letter on every Decursive square that shows a debuff you can cure, telling you **which mouse button cures it**:
+<img width="127" height="104" alt="image" src="https://github.com/user-attachments/assets/22a6e8fd-7f48-44d5-bac5-46464adf73db" />
 
 | Letter | Click |
 |---|---|
