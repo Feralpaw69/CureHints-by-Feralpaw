@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: CureHints
+## Notes: Shows which mouse button cures each debuff on the Decursive squares (L / R / M), plus a test mode. Unofficial add-on, requires Decursive.
+## Author: feralpaw
+## Version: 1.1
+## Dependencies: Decursive
+## SavedVariables: CureHintsDB
+
+CureHints.lua
